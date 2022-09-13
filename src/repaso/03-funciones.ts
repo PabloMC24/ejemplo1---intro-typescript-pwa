@@ -57,3 +57,9 @@ const nuevoAlumno:escuelaAlumno={
         console.log('Hola mundo!!!')
     },
 }
+
+
+
+
+
+
