@@ -47,5 +47,4 @@ console.log('Personaje 2: ', p2);
 console.log('Personaje 3: ', p3);
 console.log('Personaje 4: ', p4);
 
-
 //Esta fue la clase de desestructura de objeto y arreglos
