@@ -58,8 +58,4 @@ const nuevoAlumno:escuelaAlumno={
     },
 }
 
-
-
-
-
-
+//Esta es la clase de funciones
