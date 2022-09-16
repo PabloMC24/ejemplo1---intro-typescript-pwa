@@ -15,3 +15,5 @@ const carrito:Producto[]=[
 const [total,iva]=calcularIVA(carrito);
 console.log('Total: ', total);
 console.log('Total + IVA: ',iva);
+
+//Esta fue la clase Export y import fnciones
