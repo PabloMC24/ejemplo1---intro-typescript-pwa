@@ -16,3 +16,4 @@ apaterno=238;
 var miVariable:string='Hola';
 const tem:number=234
 
+//Esta es la primera clase de tipos de datos
