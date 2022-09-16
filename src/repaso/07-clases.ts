@@ -56,3 +56,5 @@ class Dado{
 let dado1=new Dado();
 dado1.tirar();
 dado1.imprimir();
+
+//Esta fue la clase de las Clases con Funciones de impreción
