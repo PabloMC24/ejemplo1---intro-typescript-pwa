@@ -28,4 +28,5 @@ const alumno:Alumno={
 
 alumno.nombre3='Dario';
 console.table(alumno);
+ // Esta es la interfaces 
 
