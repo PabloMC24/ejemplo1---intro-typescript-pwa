@@ -28,6 +28,7 @@ class tabla{ //private, protected, public - Son las propiedades que se puede col
 
 let tabla1=new tabla();
 tabla1.setNumero(7);
+console
 console.log('variable privada ' + tabla1.getNumero());
 console.log('Esta es la tabla de 7 ' + tabla1.calcular());
 
